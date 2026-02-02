@@ -1,0 +1,59 @@
+{
+    "ANS": {
+        "website": "https://www.ans.co.uk",
+        "news_page": "https://www.ans.co.uk/news",
+        "linkedin": "https://www.linkedin.com/company/ans-group",
+        "careers": "https://www.ans.co.uk/careers",
+        "about": "https://www.ans.co.uk/about",
+        "partners": "https://www.ans.co.uk/partners"
+    },
+    "Coeo": {
+        "website": "https://www.coeo.com",
+        "news_page": "https://www.coeo.com/news-and-insights",
+        "linkedin": "https://www.linkedin.com/company/coeo",
+        "careers": "https://www.coeo.com/careers",
+        "about": "https://www.coeo.com/about-us"
+    },
+    "SCC": {
+        "website": "https://www.scc.com",
+        "news_page": "https://www.scc.com/news-and-events",
+        "linkedin": "https://www.linkedin.com/company/scc",
+        "careers": "https://www.scc.com/careers"
+    },
+    "Transparity": {
+        "website": "https://transparity.com",
+        "news_page": "https://transparity.com/insights",
+        "linkedin": "https://www.linkedin.com/company/transparity",
+        "careers": "https://transparity.com/careers"
+    },
+    "Simpson Associates": {
+        "website": "https://www.simpson-associates.co.uk",
+        "news_page": "https://www.simpson-associates.co.uk/news",
+        "linkedin": "https://www.linkedin.com/company/simpson-associates",
+        "careers": "https://www.simpson-associates.co.uk/careers"
+    },
+    "CSA": {
+        "website": "https://www.csa.co.uk",
+        "news_page": "https://www.csa.co.uk/news",
+        "linkedin": "https://www.linkedin.com/company/claranet-soho-group",
+        "careers": "https://www.csa.co.uk/careers"
+    },
+    "Node4": {
+        "website": "https://www.node4.co.uk",
+        "news_page": "https://www.node4.co.uk/news-and-events",
+        "linkedin": "https://www.linkedin.com/company/node4",
+        "careers": "https://www.node4.co.uk/careers"
+    },
+    "Nasstar": {
+        "website": "https://www.nasstar.com",
+        "news_page": "https://www.nasstar.com/news",
+        "linkedin": "https://www.linkedin.com/company/nasstar",
+        "careers": "https://www.nasstar.com/careers"
+    },
+    "Advania": {
+        "website": "https://www.advania.co.uk",
+        "news_page": "https://www.advania.co.uk/news",
+        "linkedin": "https://www.linkedin.com/company/advania-uk",
+        "careers": "https://www.advania.co.uk/careers"
+    }
+}

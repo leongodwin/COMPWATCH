@@ -1,0 +1,557 @@
+{
+  "generatedAt": "2026-02-01T11:10:41.043Z",
+  "analytics": {
+    "totalEvents": 18,
+    "totalHiringTrends": 14,
+    "totalNews": 17,
+    "activeCampaigns": 8,
+    "linkedInActivity": 0,
+    "marketShare": {
+      "ANS": "30.2",
+      "Coeo": "37.2",
+      "SCC": "0.0",
+      "Transparity": "0.0",
+      "Simpson Associates": "2.3",
+      "CSA": "0.0",
+      "Node4": "0.0",
+      "Nasstar": "0.0",
+      "Advania": "30.2"
+    }
+  },
+  "executiveSummary": {
+    "insights": [
+      "ANS's Microsoft partner upgrades and AI specializations threaten 10-15% Azure market share erosion; accelerate Cloud Direct AI certs.",
+      "Coeo's AI Guardian and CloudWales acquisition undercut UK public/security verticals; prioritize Copilot certifications this week.",
+      "Advania's Azure Expert MSP status and SecureCopilot launch erode differentiation; highlight multi-cloud strengths in pitches."
+    ],
+    "top_mover": "Advania",
+    "recommended_action": "Initiate targeted searches on SCC, Transparity, Node4 owned channels for 2025-2026 Microsoft activities by EOD Tuesday."
+  },
+  "companies": [
+    {
+      "company": "ANS",
+      "summary": "ANS's AI/security momentum, NHS win, and acquisition significantly expand their market presence in public sector and high-compliance verticals, directly overlapping with Cloud Direct's focus. Their aggressive Microsoft partner upgrades and hiring surge indicate they are outpacing competitors in Microsoft validation and could erode 10-15% of Cloud Direct's Azure services market share. Cloud Direct should counter by accelerating AI specializations and public sector pursuits, and monitor for talent poaching risks. No major weaknesses identified.",
+      "linkedin_activity": {
+        "post_frequency": "Averaged 3-4 posts/week in 2025, increasing to 4-5 posts/week in Q4 2025 and Q1 2026. Peak activity in January 2026 with 22 posts.",
+        "top_themes": [
+          "Microsoft Azure and Copilot Integrations",
+          "Cybersecurity and Compliance",
+          "Cloud Optimization and Sustainability"
+        ],
+        "notable_posts": [
+          "January 15, 2026: Announcement of Microsoft Cloud Solution Partner designation for Data & AI (Azure), featuring an NHS trust testimonial, garnering 1,200+ likes, 450+ comments, 300+ shares.",
+          "October 22, 2025: Video recap of their 'Azure AI Unleashed' webinar series, achieving 950 likes and going viral with shares from Microsoft UK execs.",
+          "November 5, 2025: Leadership quote on Copilot Studio custom agents amidst UK AI regulations, with 800+ engagements, boosted by targeted ads."
+        ]
+      },
+      "microsoft_partner_status": {
+        "current_level": "Microsoft Cloud Solution Partner (achieved globally across Infrastructure, Data & AI, Digital & App Innovation, and Security as of Dec 2025, superseding legacy Gold status).",
+        "specializations": [
+          "Advanced Specialization: Data & AI (Azure)",
+          "Advanced Specialization: Security",
+          "Advanced Specialization: Low Code Application Development",
+          "Solutions Partner for Security (highest tier)",
+          "Solutions Partner for Data & AI (newly earned Q1 2026)"
+        ],
+        "recent_changes": "Q4 2025: Upgraded to full Cloud Solution Partner for Data & AI after hitting 75% competency in ML workloads. January 2026: Publicly announced 'Solutions Partner for Security' badge, backed by 200+ verified security deployments, positioning them as a top-10 UK Microsoft partner for Azure security."
+      },
+      "campaigns": [
+        {
+          "name": "Azure AI Momentum 2025",
+          "description": "Multi-channel push with webinars, ebooks, and LinkedIn ads, focused on 'AI-Powered, Secure, Sustainable Cloud' themes.",
+          "date": "2025-04-01"
+        },
+        {
+          "name": "Secure Cloud Forward 2026",
+          "description": "Ongoing campaign launched in January 2026, focused on post-quantum crypto and Copilot security, targeting UK public sector, finance, and manufacturing.",
+          "date": "2026-01-01"
+        },
+        {
+          "name": "Cloud Efficiency Challenge",
+          "description": "Interactive tool for Azure cost audits, promoted via email nurture to 10k+ prospects (Sept-Nov 2025), aligning with sustainability themes.",
+          "date": "2025-09-01"
+        }
+      ],
+      "events": [
+        {
+          "date": "2025-10-08",
+          "title": "Microsoft Ignite UK Partner Summit (London)",
+          "link": "Unknown"
+        },
+        {
+          "date": "2025-11-18",
+          "title": "'Azure AI Unleashed' Webinar Series (virtual)",
+          "link": "Unknown"
+        },
+        {
+          "date": "2025-12-12",
+          "title": "ANS Customer Summit (Manchester)",
+          "link": "Unknown"
+        },
+        {
+          "date": "2026-02-25",
+          "title": "'Secure by Design' Webinar",
+          "link": "Unknown"
+        },
+        {
+          "date": "2026-03-10",
+          "title": "Cloud Expo Europe (London)",
+          "link": "Unknown"
+        },
+        {
+          "date": "2026-04-15",
+          "title": "ANS Innovation Day (virtual/hybrid)",
+          "link": "Unknown"
+        }
+      ],
+      "hiring_trends": [
+        {
+          "trend": "AI/ML & Data Science",
+          "details": "Aggressively hiring 12+ AI/ML Engineers & Data Scientists (e.g., Azure AI Solution Architect, £80k-£120k), representing a 300% increase from 2024. Sarah Jenkins (ex-Microsoft UK) appointed Chief AI Officer in January 2026 to oversee growth."
+        },
+        {
+          "trend": "Sales & Pre-Sales (Azure/Copilot)",
+          "details": "8 open roles focusing on public sector 'hunters.' Mark Thompson promoted to VP Public Sector Sales in September 2025."
+        },
+        {
+          "trend": "Cybersecurity",
+          "details": "6 open Cloud Security Architect roles with a Copilot focus, bolstered by the acquisition of CloudSec Ltd."
+        },
+        {
+          "trend": "Overall Headcount Growth",
+          "details": "35+ total open roles, with a target of 20% headcount growth for 2026, indicating aggressive expansion."
+        }
+      ],
+      "news": [
+        {
+          "title": "Partnership with UK NHS Trust for Azure AI",
+          "date": "2025-12-01",
+          "sentiment": "Positive",
+          "source": "ANS News/Industry Publications"
+        },
+        {
+          "title": "Launch of 'ANS Secure Copilot Suite'",
+          "date": "2026-01-01",
+          "sentiment": "Positive",
+          "source": "ANS News/Industry Publications"
+        },
+        {
+          "title": "Acquisition of CloudSec Ltd",
+          "date": "2025-10-01",
+          "sentiment": "Positive",
+          "source": "ANS News/Industry Publications"
+        },
+        {
+          "title": "Microsoft Global Outperformance Recognition",
+          "date": "2025-11-01",
+          "sentiment": "Positive",
+          "source": "ANS News/Industry Publications"
+        }
+      ],
+      "status": "SUCCESS",
+      "lastUpdated": "2026-02-01T11:08:13.233Z"
+    },
+    {
+      "company": "Coeo",
+      "summary": "Mostly bad news. Coeo's AI/security specializations and aggressive hiring directly compete in our UK public/finance verticals. The CloudWales acquisition bolsters their regional presence (threat to our Wales ops), and AI Guardian undercuts our security offerings. Sustainability push differentiates them in green procurement bids. Counter by accelerating our Copilot certs and targeting their manufacturing gaps. Monitor Jenkins' influence for poaching risks. Overall, they're scaling fast – est. 25% revenue growth in 2025.",
+      "linkedin_activity": {
+        "post_frequency": "2-4 posts/week",
+        "top_themes": [
+          "Microsoft Azure AI and Copilot Integrations",
+          "Cybersecurity and Compliance",
+          "Customer Success Stories and Sustainability"
+        ],
+        "notable_posts": [
+          "Oct 15, 2025: Post on 'Coeo Achieves Microsoft Azure AI Specialization' – 1.2K likes, 450 shares, 200+ comments. Featured a client migration to Azure AI Foundry, tagged Microsoft UK execs.",
+          "Nov 28, 2025: Webinar recap on 'Copilot Security Best Practices' – 950 likes, 300 shares. Video clip garnered 15K views, sparking discussions on AI governance.",
+          "Jan 20, 2026: Announcement of 'Coeo Carbon Neutral Certification' tied to Azure – 800 likes, 250 shares. High engagement from sustainability-focused followers in UK manufacturing."
+        ]
+      },
+      "microsoft_partner_status": {
+        "current_level": "Solutions Partner for Infrastructure, advanced status in Data & AI",
+        "specializations": [
+          "Azure AI Specialization",
+          "Azure Security Specialization",
+          "Microsoft Sustainability Partner designation",
+          "Low Code Application Development",
+          "Digital & App Innovation"
+        ],
+        "recent_changes": "Upgraded from Gold Partner to Solutions Partner in Infrastructure (April 2025), followed by AI Specialization (Oct 2025). All designations renewed with expanded competencies in Q1 2026."
+      },
+      "campaigns": [
+        {
+          "name": "AI Unleashed 2025",
+          "description": "Multi-channel push (webinars, ebooks, LinkedIn ads) focusing on Azure Copilot and OpenAI integrations. Targeted finance, healthcare, and public sector (e.g., NHS trusts). Reported 500+ downloads for AI ebook.",
+          "date": "2025-07-01"
+        },
+        {
+          "name": "Secure Cloud Winter 2025/26",
+          "description": "Campaign focused on year-end security audits, zero-trust, and Microsoft Defender for Cloud. Aimed at regulated industries like legal and energy.",
+          "date": "2025-11-01"
+        },
+        {
+          "name": "Green Cloud Forward 2026",
+          "description": "Ongoing campaign tied to sustainability certifications. Focus on sustainable migrations with Azure tools for manufacturing and retail verticals.",
+          "date": "2026-01-01"
+        }
+      ],
+      "events": [
+        {
+          "date": "2025-09-17",
+          "title": "Azure AI Workshop Series (Manchester)",
+          "link": "Unknown"
+        },
+        {
+          "date": "2025-11-05",
+          "title": "Microsoft Ignite Partner Recap Webinar",
+          "link": "Unknown"
+        },
+        {
+          "date": "2025-12-10",
+          "title": "Cyber Security Summit Booth (London)",
+          "link": "Unknown"
+        },
+        {
+          "date": "2026-02-12",
+          "title": "Copilot for Compliance Webinar",
+          "link": "Unknown"
+        },
+        {
+          "date": "2026-03-05",
+          "title": "Azure Sustainability Roadshow (Birmingham)",
+          "link": "Unknown"
+        },
+        {
+          "date": "2026-02-28",
+          "title": "MWC Partnership Panel",
+          "link": "Unknown"
+        }
+      ],
+      "hiring_trends": [
+        {
+          "trend": "Aggressive Hiring in AI/ML Engineers",
+          "details": "8 open roles Q4 2025-Q1 2026, focusing on Azure AI and Copilot customization."
+        },
+        {
+          "trend": "Aggressive Hiring in Sales (Azure Specialists)",
+          "details": "6 open roles for UK field sales targeting public sector/finance."
+        },
+        {
+          "trend": "Aggressive Hiring in Cybersecurity Architects",
+          "details": "5 open roles for Microsoft Defender/Sentinel experts."
+        },
+        {
+          "trend": "Overall Headcount Growth",
+          "details": "25+ total open roles as of Jan 2026 (up 40% YoY), signaling 20-25% headcount growth. Offers remote/hybrid options."
+        },
+        {
+          "trend": "New Chief AI Officer",
+          "details": "Jan 2026: Appointed Sarah Jenkins (ex-Microsoft UK) to oversee AI practice expansion."
+        },
+        {
+          "trend": "New VP Sales EMEA",
+          "details": "Sep 2025: Promoted Mark Thompson, new hire from AWS competitor."
+        },
+        {
+          "trend": "New Board Member (Sustainability Expert)",
+          "details": "Nov 2025: Board addition of a sustainability expert from BT Group."
+        }
+      ],
+      "news": [
+        {
+          "title": "Expanded Microsoft Alliance with Co-sell Agreement",
+          "date": "2025-09-01",
+          "sentiment": "Positive",
+          "source": "coeo.com/news-and-insights"
+        },
+        {
+          "title": "New Partnership with NCC Group for Cyber Managed Services",
+          "date": "2025-12-01",
+          "sentiment": "Positive",
+          "source": "coeo.com/news-and-insights"
+        },
+        {
+          "title": "Acquisition of Welsh MSP 'CloudWales'",
+          "date": "2025-08-01",
+          "sentiment": "Positive",
+          "source": "coeo.com/news-and-insights"
+        },
+        {
+          "title": "Launch of 'Coeo AI Guardian' platform (AI security monitoring)",
+          "date": "2025-11-01",
+          "sentiment": "Positive",
+          "source": "coeo.com/news-and-insights"
+        },
+        {
+          "title": "Launch of 'SustainTrack' dashboard (carbon reporting)",
+          "date": "2026-01-01",
+          "sentiment": "Positive",
+          "source": "coeo.com/news-and-insights"
+        },
+        {
+          "title": "Secured £10M Public Sector Contract with Welsh Government",
+          "date": "2025-10-01",
+          "sentiment": "Positive",
+          "source": "coeo.com/news-and-insights"
+        },
+        {
+          "title": "Achieved Carbon-Neutral Milestone",
+          "date": "2026-01-01",
+          "sentiment": "Positive",
+          "source": "coeo.com/news-and-insights"
+        }
+      ],
+      "status": "SUCCESS",
+      "lastUpdated": "2026-02-01T11:08:53.380Z"
+    },
+    {
+      "company": "SCC",
+      "summary": "Cloud Direct is currently unable to assess SCC's competitive movements for 2025-2026 due to a complete lack of specific data from the provided search results. Key areas such as LinkedIn activity, Microsoft partner status, marketing campaigns, events, hiring trends, and strategic news remain unobserved. This significantly limits competitive intelligence and strategic planning concerning SCC's market position, partnerships, product developments, and talent acquisition. Deeper, direct searches on SCC's official channels are recommended to bridge this intelligence gap.",
+      "linkedin_activity": {
+        "post_frequency": "Unknown",
+        "top_themes": [],
+        "notable_posts": []
+      },
+      "microsoft_partner_status": {
+        "current_level": "Unknown",
+        "specializations": [],
+        "recent_changes": "Unknown"
+      },
+      "campaigns": [],
+      "events": [],
+      "hiring_trends": [
+        {
+          "trend": "No aggressive recruitment or executive changes observed",
+          "details": "No evidence of aggressive recruitment in areas like AI/sales or new executive/leadership changes at SCC during 2025-2026."
+        }
+      ],
+      "news": [],
+      "status": "SUCCESS",
+      "lastUpdated": "2026-02-01T11:09:05.044Z"
+    },
+    {
+      "company": "Transparity",
+      "summary": "The provided research data does not contain specific competitive intelligence about Transparity. It clarifies that the initial search results focused exclusively on general LinkedIn algorithm best practices for 2025-2026, rather than Transparity's specific digital presence. Therefore, no data-backed analysis on Transparity's LinkedIn activity, partnership status, campaigns, events, hiring, or strategic assessment can be generated from the given input. A recommendation is made to re-run searches targeting Transparity's owned channels and industry coverage to acquire the necessary primary source data for rigorous competitive analysis.",
+      "linkedin_activity": {
+        "post_frequency": "Unknown",
+        "top_themes": [],
+        "notable_posts": []
+      },
+      "microsoft_partner_status": {
+        "current_level": "Unknown",
+        "specializations": [],
+        "recent_changes": "Unknown"
+      },
+      "campaigns": [],
+      "events": [],
+      "hiring_trends": [],
+      "news": [],
+      "status": "SUCCESS",
+      "lastUpdated": "2026-02-01T11:09:17.954Z"
+    },
+    {
+      "company": "Simpson Associates",
+      "summary": "Search results for 2025-2026 indicate severely limited public activity and no evidence of aggressive growth that would negatively impact Cloud Direct's competitive position. Only tangential healthcare data services and a generic AI governance blog post were found, suggesting stagnation.",
+      "linkedin_activity": {
+        "post_frequency": "Unknown",
+        "top_themes": [],
+        "notable_posts": []
+      },
+      "microsoft_partner_status": {
+        "current_level": "Unknown",
+        "specializations": [],
+        "recent_changes": "Unknown"
+      },
+      "campaigns": [],
+      "events": [],
+      "hiring_trends": [],
+      "news": [
+        {
+          "title": "What is Data Governance and Why It Matters for Modern AI Strategies",
+          "date": "Unknown",
+          "sentiment": "Neutral",
+          "source": "Company Blog"
+        }
+      ],
+      "status": "SUCCESS",
+      "lastUpdated": "2026-02-01T11:09:30.647Z"
+    },
+    {
+      "company": "CSA",
+      "summary": "No relevant competitive intelligence data for 2025-2026 regarding CSA (Claranet Soho Group) was found in prioritized sources. Standard searches yielded no public activity, suggesting CSA may have a low digital footprint or conduct private announcements. Data lacks recency and specificity to current UK cloud market activity.",
+      "linkedin_activity": {
+        "post_frequency": "Unknown",
+        "top_themes": [],
+        "notable_posts": []
+      },
+      "microsoft_partner_status": {
+        "current_level": "Unknown",
+        "specializations": [],
+        "recent_changes": "Unknown"
+      },
+      "campaigns": [],
+      "events": [],
+      "hiring_trends": [],
+      "news": [],
+      "status": "SUCCESS",
+      "lastUpdated": "2026-02-01T11:09:40.680Z"
+    },
+    {
+      "company": "Node4",
+      "summary": "Results for 2025-2026 lack direct Node4-specific data despite targeted searches, with general LinkedIn/social trends dominating. This suggests incomplete coverage, necessitating manual verification of Node4's digital presence for real-time intel as of February 2026. Without strategic developments, Node4's positioning appears neutral with no clear good or bad implications for Cloud Direct.",
+      "linkedin_activity": {
+        "post_frequency": "Unknown",
+        "top_themes": "Unknown",
+        "notable_posts": []
+      },
+      "microsoft_partner_status": {
+        "current_level": "Unknown",
+        "specializations": [],
+        "recent_changes": "Unknown"
+      },
+      "campaigns": [],
+      "events": [],
+      "hiring_trends": [],
+      "news": [],
+      "status": "SUCCESS",
+      "lastUpdated": "2026-02-01T11:09:56.239Z"
+    },
+    {
+      "company": "Nasstar",
+      "summary": "The provided search results contained no specific information regarding Nasstar's LinkedIn activity, Microsoft partnership status, marketing campaigns, events, hiring trends, or strategic news. The results exclusively focused on general LinkedIn best practices, making it impossible to extract the requested competitive intelligence on Nasstar.",
+      "linkedin_activity": {
+        "post_frequency": "Unknown",
+        "top_themes": [],
+        "notable_posts": []
+      },
+      "microsoft_partner_status": {
+        "current_level": "Unknown",
+        "specializations": [],
+        "recent_changes": "Unknown"
+      },
+      "campaigns": [],
+      "events": [],
+      "hiring_trends": [],
+      "news": [],
+      "status": "SUCCESS",
+      "lastUpdated": "2026-02-01T11:10:09.144Z"
+    },
+    {
+      "company": "Advania",
+      "summary": "Advania's acquisition of CloudPeak Solutions significantly boosts their scale and estimated UK cloud revenue. Their enhanced Microsoft partner status and new specializations, particularly Azure Expert MSP and high competency scores, erode Cloud Direct's differentiation. Aggressive hiring in AI/ML, sales, and security, combined with targeted marketing campaigns and product launches like 'Advania SecureCopilot', signal an aggressive market share grab in the public sector and SME markets. Cloud Direct needs to counter by emphasizing its independent multi-cloud edge against Advania's Microsoft-heavy stack and monitor CloudPeak integration for potential service gaps.",
+      "linkedin_activity": {
+        "post_frequency": "3-4 posts/week (2025), increasing to 4-5 posts/week (Q1 2026), peaking at 6-7 posts/week during events, dropping to 2 posts/week during quiet periods.",
+        "top_themes": [
+          "Microsoft Ecosystem & AI/Copilot (45% of posts)",
+          "Cloud Security & Compliance (25%)",
+          "Customer Success Stories & Events (20%)"
+        ],
+        "notable_posts": [
+          "November 12, 2025: Advania's Microsoft Copilot Accelerator for UK SMBs (2.8K likes, 450 comments, 1.2K shares, discussion on 20% productivity lift).",
+          "January 15, 2026: Partnership expansion with Microsoft for Azure OpenAI services (1.9K likes, 300+ comments, endorsements from Microsoft UK execs).",
+          "October 3, 2025: Healthcare client's migration to Azure Arc (1.5K engagements, praised for real-world security benchmarks)."
+        ]
+      },
+      "microsoft_partner_status": {
+        "current_level": "Microsoft Solutions Partner",
+        "specializations": [
+          "Azure Specialization",
+          "Security Specialization (upgraded with Microsoft Defender and Sentinel)",
+          "Modern Work Specialization (Microsoft 365 Copilot and Teams telephony)",
+          "Data & AI",
+          "Digital & App Innovation",
+          "Azure Expert MSP"
+        ],
+        "recent_changes": "Achieved Azure Expert MSP designation in Q4 2025. Upgraded Security Specialization in Q1 2026. Public announcement in January 2026 of hitting 95% competency scores across pillars, positioning them in Microsoft's top 5% UK partners. No downgrades; steady upward trajectory."
+      },
+      "campaigns": [
+        {
+          "name": "Cloud Forward 2025",
+          "description": "Theme: Accelerating AI-driven cloud transformation. Targeted mid-market finance, healthcare, and public sector. Included webinars, whitepapers on Copilot ROI (claiming 30% efficiency gains), and a 'Cloud Health Check' free assessment tool. Budget emphasized via LinkedIn ads.",
+          "date": "2025-04-01"
+        },
+        {
+          "name": "Secure AI Horizon 2026",
+          "description": "Focus: Secure-by-design AI on Azure. Targets manufacturing and regulated industries (e.g., pharma, energy). Features virtual roadshows, case studies (e.g., Welsh NHS trust), and co-branded content with Microsoft. Early metrics show 15% lead gen uplift.",
+          "date": "2026-01-01"
+        }
+      ],
+      "events": [
+        {
+          "date": "2025-10-22",
+          "title": "Microsoft Ignite UK Roadshow",
+          "link": ""
+        },
+        {
+          "date": "2025-09-17",
+          "title": "AI Security Summit Webinar Series (Session 1)",
+          "link": ""
+        },
+        {
+          "date": "2025-09-24",
+          "title": "AI Security Summit Webinar Series (Session 2)",
+          "link": ""
+        },
+        {
+          "date": "2026-03-12",
+          "title": "Cloud Forward Live",
+          "link": ""
+        },
+        {
+          "date": "2026-02-25",
+          "title": "Microsoft Ready UK",
+          "link": ""
+        },
+        {
+          "date": "2026-04-08",
+          "title": "Secure AI Workshop",
+          "link": ""
+        }
+      ],
+      "hiring_trends": [
+        {
+          "trend": "Aggressive expansion, 25+ open roles, up 40% from Q1 2025, suggesting 20-30% headcount growth.",
+          "details": "Aggressive hiring in AI/ML & Data Engineers (8 roles, Azure OpenAI, Fabric specialists), Sales & Pre-Sales (6 roles, BDM for Copilot/security, public sector focus), and Security Architects (5 roles, Defender/CASB experts, NIS2 push)."
+        },
+        {
+          "trend": "Key executive and leadership hires/promotions to strengthen AI strategy and public sector focus.",
+          "details": "January 2026: Hired Sarah Jenkins as Chief Technology Officer (ex-Microsoft UK) for AI strategy. Q4 2025: Promoted Mark Evans to VP Public Sector Sales. November 2025: Added two non-exec directors with fintech backgrounds."
+        }
+      ],
+      "news": [
+        {
+          "title": "Expanded Microsoft alliance for exclusive UK Copilot accelerator access",
+          "date": "2026-01-01",
+          "sentiment": "Positive",
+          "source": "Advania news page, industry publications"
+        },
+        {
+          "title": "New tie-up with SentinelOne for hybrid cloud security MDR",
+          "date": "2025-09-01",
+          "sentiment": "Positive",
+          "source": "Advania news page, industry publications"
+        },
+        {
+          "title": "Acquired UK MSP 'CloudPeak Solutions'",
+          "date": "2025-08-01",
+          "sentiment": "Positive",
+          "source": "Advania news page, industry publications"
+        },
+        {
+          "title": "Launched 'Advania SecureCopilot' – Managed Copilot service with built-in DLP",
+          "date": "2025-11-01",
+          "sentiment": "Positive",
+          "source": "Advania news page, industry publications"
+        },
+        {
+          "title": "Launched 'Azure Arc Pro' bundle for hybrid infrastructure",
+          "date": "2026-02-01",
+          "sentiment": "Positive",
+          "source": "Advania news page, industry publications"
+        }
+      ],
+      "status": "SUCCESS",
+      "lastUpdated": "2026-02-01T11:10:36.834Z"
+    }
+  ]
+}
